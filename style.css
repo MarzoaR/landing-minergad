@@ -57,7 +57,8 @@ html, body{
 
 /* -------- HEADER -------- */
 header{
-  background-image: url(./img/header.png);
+  background-image: url(http://www.minegard.com.au/wp-content/uploads/2019/11/header.png);
+  background-color: #000000;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -72,7 +73,7 @@ header .subtitle-section{
 
 /* -------- MAIN Info -------- */
 .bg-hero{
-  background-image: url(./img/person2.png);
+  background-image: url(http://www.minegard.com.au/wp-content/uploads/2019/11/info.png);
   background-position: center;
   background-color: #000000;
   background-repeat: no-repeat;
@@ -112,7 +113,7 @@ p.text-hero{
 }
 /* -------- MAIN Faqs -------- */
 #faq{
-  background-image: url("./img/faq.png");
+  background-image: url(http://www.minegard.com.au/wp-content/uploads/2019/11/faq.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -124,7 +125,7 @@ p.text-hero{
 
 /* -------- MAIN Blog --------- */
 #blog{
-  background-image: url("./img/ourblog.png");
+  background-image: url(http://www.minegard.com.au/wp-content/uploads/2019/11/blog.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -135,7 +136,7 @@ p.text-hero{
   padding-left: 25px;
 }
 #contact{
-  background-image: url("./img/map.png");
+  background-image: url("http://www.minegard.com.au/wp-content/uploads/2019/11/map.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

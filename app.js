@@ -51,7 +51,7 @@ const api = 'https://www.minegard.com.au/wp-json/wp/v2/posts?_embed'
                               </div>
                             </div>
                             <div class="col-md-4">
-                              <img src="${data[1]._embedded["wp:featuredmedia"][0].source_url}" class="card-img img-fluid" alt="Image Post">
+                              <img src="${data[1]._embedded["wp:featuredmedia"][0].source_url}" class="card-img" alt="Image Post">
                             </div>
                           </div>`
 
